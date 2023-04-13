@@ -1,2 +1,3 @@
 # rtc6_test
-testing 
+2023-04-14 get card serial no. 
+
